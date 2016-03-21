@@ -10,7 +10,13 @@ second write foure text test;
 third write test text !!
 
 
+update data db
 
+update data db
+update data db
+update data db
+update data db
+update data db
 
 test 
 test 
